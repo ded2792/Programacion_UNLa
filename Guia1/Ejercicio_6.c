@@ -1,4 +1,5 @@
 //  Escriba un programa C que cuente de 2 a 20 de a 2.
+#include <stdio.h>
 int main(){
 printf("*** Cuenta de 2 en 2 ***\n");
 
