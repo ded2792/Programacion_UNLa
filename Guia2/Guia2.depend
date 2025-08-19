@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\ded27\onedrive\escritorio\programasc\programacionunla\guia2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1755571774 source:c:\users\ded27\onedrive\escritorio\programasc\programacionunla\guia2\ejercicio_1.c
+	<stdio.h>
+	<stdlib.h>
+
